@@ -15,6 +15,9 @@ Se desarrolló tomando las buenas prácticas de sitios responsive, validamos los
 
 • QA/Testing:
 Creamos plantillas de testing para casos de pruebas y reportes de bugs, creación de script en Postman.
+Documentación
+[Casos de pruebas ejecutados](https://docs.google.com/spreadsheets/d/1ddX_aEA7HFqhzSgV0mlIMv4PH_KkhenU/edit?usp=sharing&ouid=110832640286401168867&rtpof=true&sd=true)
+[Reporte Final de Testing](https://docs.google.com/document/d/1yoXdK0wO76yk7Q2E_yycxmCritPUyv_g/edit?usp=sharing&ouid=110832640286401168867&rtpof=true&sd=true)
 
 •Infraestructura:
  Se desarrolló toda la infraestructura necesaria para la aplicación en la nube a través de los servicios brindados por AWS (Amazon Web Services).
