@@ -1,10 +1,9 @@
 #  <h1 align="center">Proyecto Final CTD </h1>
 
-Proyecto Integrador realizado en el marco de Digital House
+Proyecto Integrador realizado en el marco de Digital House - Desarrollo de una página web para la reserva de alojamientos.
 
 ![ProyectDh](https://user-images.githubusercontent.com/81455607/196058756-109126f9-2d40-49fe-9beb-ff7f9c10f4db.png)
 
-Desarrollo de una página web para la reserva de alojamientos.
 
 • Backend utilizando JAVA, Spring Boot y patrón MVC:
 Se diseñó y modeló la capa de acceso a los datos. Utilizamos hibernate a través de Spring Data para mapear las diferentes clases con sus respectivas tablas en la base de datos y creamos diferentes servicios para exponerlos a través de las APIs REST.
