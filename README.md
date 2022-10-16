@@ -2,6 +2,8 @@
 
 Proyecto Integrador realizado en el marco de Digital House
 
+![ProyectDh](https://user-images.githubusercontent.com/81455607/196058756-109126f9-2d40-49fe-9beb-ff7f9c10f4db.png)
+
 Desarrollo de una página web para la reserva de alojamientos.
 
 • Backend utilizando JAVA, Spring Boot y patrón MVC:
